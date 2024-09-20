@@ -14,10 +14,7 @@
 🏭 [Sustain] [Estimated CO2 Emissions for 17,000 U.S. Government Websites](https://co2.ignitebright.com)<br>
 
 ### Find me elsewhere 🌎
-🚀 [Site](https://corytrimm.com) <br>
-🧵 [Threads](https://twitter.com/journey.unknown) <br>
-📸 [Instagram](https://instagram.com/journey.unknown) <br>
-💼 [LinkedIn](https://www.linkedin.com/in/cory-trimm) <br>
+🚀 [Personal Website](https://corytrimm.com) | 🧵 [Threads](https://twitter.com/journey.unknown) | 📸 [Instagram](https://instagram.com/journey.unknown) | 💼 [LinkedIn](https://www.linkedin.com/in/cory-trimm) <br>
 
 <!--
 **ctrimm/ctrimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
