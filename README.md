@@ -1,6 +1,6 @@
 ### Hey, I'm Cory 👋
 
-💆 Currently on sabbatical. <br>
+💆 Currently on sabbatical (open to the right opportunity). <br>
 🌎 Traveled to 40+ countries. <br>
 🎟 [Current Interests](interests.md).
 
