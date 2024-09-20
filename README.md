@@ -1,15 +1,8 @@
 ### Hey, I'm Cory 👋
 
 💆 Currently on sabbatical from traditional work. <br>
-🧇 Former Guinness World Record holder. <br>
 🌎 Traveled to 40+ countries. <br>
-🚀 Always building. <br>
-🎟 Interested in:<br>
-- Civic/Gov Tech
-- Developer Experience
-- Climate + IT
-- Shipping Websites Fast
-- IO PsychologySoftware Engineering Leadership
+🎟 [Current Interests](interests.md).
 
 ### What I'm working on 👨‍💻
 
@@ -17,8 +10,8 @@
 🧀 Fan Club for Green Bay Packers Fans in Brazil - [Cabeca de Quejo](https://cabecadequeijo.com) <br>
 ⚡ Digital Services Consultancy - [Ignite Bright, LLC](https://ignitebright.com) <br>
 
-### Previous Projects
-🏭 [Sustain] Estimated CO2 Emissions for 17,000 U.S. Government Websites<br>
+#### Previous Projects
+🏭 [Sustain] [Estimated CO2 Emissions for 17,000 U.S. Government Websites](https://co2.ignitebright.com)<br>
 
 ### Find me elsewhere 🌎
 🚀 [Site](https://corytrimm.com) <br>
