@@ -6,6 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
+✉️ Copy & Paste Beautiful Email Templates - [EmailBits](https://emailbits.co) <br>
 🎙️ Curate & Create a Hyper-Personalized Podcasts - [In Short Pod](https://inshortpod.com) <br>
 🧀 Fan Club for Green Bay Packers Fans in Brazil - [Cabeca de Quejo](https://cabecadequeijo.com) <br>
 ⚡ Digital Services Consultancy - [Ignite Bright, LLC](https://ignitebright.com) <br>
@@ -14,7 +15,7 @@
 🏭 [Sustain] [Estimated CO2 Emissions for 17,000 U.S. Government Websites](https://co2.ignitebright.com)<br>
 
 ### Find me elsewhere 🌎
-🚀 [Personal Website](https://corytrimm.com) | 🧵 [Threads](https://twitter.com/journey.unknown) | 📸 [Instagram](https://instagram.com/journey.unknown) | 💼 [LinkedIn](https://www.linkedin.com/in/cory-trimm) <br>
+🚀 [Personal Website](https://corytrimm.com) | 🧵 [Threads](https://threads.net/journey.unknown) | 📸 [Instagram](https://instagram.com/journey.unknown) | 💼 [LinkedIn](https://www.linkedin.com/in/cory-trimm) <br>
 
 <!--
 **ctrimm/ctrimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
