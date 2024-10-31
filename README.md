@@ -6,6 +6,7 @@
 
 ### What I'm working on 👨‍💻
 
+🗣️ Turn Your Customers into Marketers w/ Easy-to-Request Reviews - [Snap Sentiment](https://snapentiment.com) <br>
 ✉️ Copy & Paste Beautiful Email Templates - [EmailBits](https://emailbits.co) <br>
 🎙️ Curate & Create a Hyper-Personalized Podcasts - [In Short Pod](https://inshortpod.com) <br>
 🧀 Fan Club for Green Bay Packers Fans in Brazil - [Cabeca de Quejo](https://cabecadequeijo.com) <br>
